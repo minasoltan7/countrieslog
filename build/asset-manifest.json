@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/countrieslog/static/css/main.c14871d9.chunk.css",
+    "main.js": "/countrieslog/static/js/main.c1553989.chunk.js",
+    "main.js.map": "/countrieslog/static/js/main.c1553989.chunk.js.map",
+    "runtime-main.js": "/countrieslog/static/js/runtime-main.648b7614.js",
+    "runtime-main.js.map": "/countrieslog/static/js/runtime-main.648b7614.js.map",
+    "static/css/2.fe359a49.chunk.css": "/countrieslog/static/css/2.fe359a49.chunk.css",
+    "static/js/2.7308b7ab.chunk.js": "/countrieslog/static/js/2.7308b7ab.chunk.js",
+    "static/js/2.7308b7ab.chunk.js.map": "/countrieslog/static/js/2.7308b7ab.chunk.js.map",
+    "static/js/3.93066750.chunk.js": "/countrieslog/static/js/3.93066750.chunk.js",
+    "static/js/3.93066750.chunk.js.map": "/countrieslog/static/js/3.93066750.chunk.js.map",
+    "index.html": "/countrieslog/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/countrieslog/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.c14871d9.chunk.css.map": "/countrieslog/static/css/main.c14871d9.chunk.css.map",
+    "static/js/2.7308b7ab.chunk.js.LICENSE.txt": "/countrieslog/static/js/2.7308b7ab.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/countrieslog/static/media/pigiarniq-webfont.2a89c25a.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.648b7614.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.7308b7ab.chunk.js",
+    "static/css/main.c14871d9.chunk.css",
+    "static/js/main.c1553989.chunk.js"
+  ]
+}
