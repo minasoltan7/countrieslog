@@ -1,0 +1,80 @@
+
+@font-face {
+  font-family: 'Carnivalee Freakshow';
+  src: url('CarnivaleeFreakshow.woff2') format('woff2'),
+      url('CarnivaleeFreakshow.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+@font-face {
+  font-family: 'pigiarniqbold';
+  src: url('pigiarniq-webfont.woff2') format('woff2'),
+       url('pigiarniq-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'Olde English';
+  src: url('OldeEnglish-Regular.woff2') format('woff2'),
+      url('OldeEnglish-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+body {
+  background-color:linear-gradient(to right, rgb(255, 255, 255), rgb(96, 77, 77)) ;
+  margin:0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.title{
+  font-family: 'Carnivalee Freakshow';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 80px;
+ color:#fafa8c;
+}
+
+.title1{
+  font-family:'Carnivalee Freakshow';
+  color:#fafa8c;
+  font-size: 100px;
+}
+
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  
+}
+
+
+.container1{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding:0px 0px 0px 0px;
+  height: calc(40vh - 60px);
+}
+

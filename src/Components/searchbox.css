@@ -1,0 +1,17 @@
+.searchbox{
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+    border:0;
+    box-shadow: 0 0 7px 3px #868649 ;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #ffffb3;
+    border: none;
+    outline:none;
+    color:rgb(41, 29, 28);
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Carnivalee Freakshow';
+    src: url('CarnivaleeFreakshow.woff2') format('woff2'),
+        url('CarnivaleeFreakshow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
