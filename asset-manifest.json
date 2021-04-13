@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/countrieslog/static/css/main.559a967f.chunk.css",
+    "main.css": "/countrieslog/static/css/main.1c20e70a.chunk.css",
     "main.js": "/countrieslog/static/js/main.c1553989.chunk.js",
     "main.js.map": "/countrieslog/static/js/main.c1553989.chunk.js.map",
     "runtime-main.js": "/countrieslog/static/js/runtime-main.648b7614.js",
@@ -12,7 +12,7 @@
     "static/js/3.93066750.chunk.js.map": "/countrieslog/static/js/3.93066750.chunk.js.map",
     "index.html": "/countrieslog/index.html",
     "static/css/2.fe359a49.chunk.css.map": "/countrieslog/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.559a967f.chunk.css.map": "/countrieslog/static/css/main.559a967f.chunk.css.map",
+    "static/css/main.1c20e70a.chunk.css.map": "/countrieslog/static/css/main.1c20e70a.chunk.css.map",
     "static/js/2.7308b7ab.chunk.js.LICENSE.txt": "/countrieslog/static/js/2.7308b7ab.chunk.js.LICENSE.txt",
     "static/media/App.css": "/countrieslog/static/media/pigiarniq-webfont.2a89c25a.woff2"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.648b7614.js",
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.7308b7ab.chunk.js",
-    "static/css/main.559a967f.chunk.css",
+    "static/css/main.1c20e70a.chunk.css",
     "static/js/main.c1553989.chunk.js"
   ]
 }
