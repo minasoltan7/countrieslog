@@ -16,3 +16,23 @@
     color:rgb(41, 29, 28);
     margin:10px;
 }
+
+@media (max-width:481px)  { 
+    
+.searchbox{
+    width:200px;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+
+}
+
+@media (max-width:320px)  { 
+    
+    .searchbox{
+                width: 200px;
+                font-size: 15px;
+                margin-bottom: 20px;
+            }
+        }
