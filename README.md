@@ -1,3 +1,9 @@
+## This Website helps let you know any country Flag, Population, Capital, Area & Region.
+## Credit goes to resCountries API.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
