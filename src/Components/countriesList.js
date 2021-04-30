@@ -12,7 +12,7 @@ const CountriesList = (props) => {
                 name={countries[i].name}
                 flag={countries[i].flag}
                 region={countries[i].region}
-                population={countries[i].population.toString().replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ",")}
+                population={countries[i].population.toLocaleString()}
                 capital={countries[i].capital}
                 area={countries[i].area + " Km2"}
 
