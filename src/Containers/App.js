@@ -20,7 +20,7 @@ class App extends Component {
     }
 
     componentDidMount() {
-        fetch("https://restcountries.eu/rest/v2/all").then(response => {
+        fetch("https://restcountries.com/v2/all").then(response => {
             return response.json()
         }).then(data => {
             this.setState({ Countries: data })
